@@ -15,4 +15,5 @@
 - [Dictionary for IK Analyzer](https://github.com/infiniflow/resource/tree/main/ik)
 - [Resources for OpenCC(For Converting Traditional and Simplified Chinese)](https://github.com/infiniflow/resource/tree/main/opencc)
 - [Wordnet Resources](https://github.com/infiniflow/resource/tree/main/wordnet)
+- [Slovak Lemma Table](https://github.com/infiniflow/resource/tree/main/slovak)
 
